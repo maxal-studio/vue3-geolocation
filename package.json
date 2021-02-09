@@ -1,0 +1,27 @@
+{
+  "name": "vue3-browser-geolocation",
+  "version": "1.0.0",
+  "description": "Vue3 Browser Geolocation",
+  "author": {
+    "name": "Max.Al",
+    "email": "info@max.al",
+    "url": "https://max.al"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxal-studio/vue3-geolocation.git"
+  },
+  "main": "dist/vue-geolocation.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack --config webpack.config.js --mode=development",
+    "prod": "webpack --config webpack.config.js --mode=production"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
