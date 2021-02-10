@@ -1,9 +1,6 @@
-# vue-geolocation
+# vue3-geolocation
 
-> ask to your users their coordinates, and wrap them into a Promise
-
-[![Build Status](https://travis-ci.org/scaccogatto/vue-geolocation.svg?branch=master)](https://travis-ci.org/scaccogatto/vue-geolocation)
-
+> Get users geolocation
 ## Plugin install
 
 ```sh

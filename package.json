@@ -1,7 +1,7 @@
 {
-  "name": "vue3-browser-geolocation",
+  "name": "vue3-geolocation",
   "version": "1.0.0",
-  "description": "Vue3 Browser Geolocation",
+  "description": "Vue3 Geolocation",
   "author": {
     "name": "Max.Al",
     "email": "info@max.al",
