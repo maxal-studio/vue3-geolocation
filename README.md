@@ -10,7 +10,7 @@ npm install vue3-geolocation
 in  your main.js
 ```
 import Vue3Geolocation from 'vue3-geolocation';
-app.use(VueGeolocation);
+app.use(Vue3Geolocation);
 ```
 
 ## Usage
